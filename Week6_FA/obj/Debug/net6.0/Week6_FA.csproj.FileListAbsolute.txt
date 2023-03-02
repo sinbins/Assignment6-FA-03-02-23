@@ -1,0 +1,15 @@
+D:\C#Projects\Week6_FA\bin\Debug\net6.0\Week6_FA.exe
+D:\C#Projects\Week6_FA\bin\Debug\net6.0\Week6_FA.deps.json
+D:\C#Projects\Week6_FA\bin\Debug\net6.0\Week6_FA.runtimeconfig.json
+D:\C#Projects\Week6_FA\bin\Debug\net6.0\Week6_FA.dll
+D:\C#Projects\Week6_FA\bin\Debug\net6.0\Week6_FA.pdb
+D:\C#Projects\Week6_FA\obj\Debug\net6.0\Week6_FA.csproj.AssemblyReference.cache
+D:\C#Projects\Week6_FA\obj\Debug\net6.0\Week6_FA.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Projects\Week6_FA\obj\Debug\net6.0\Week6_FA.AssemblyInfoInputs.cache
+D:\C#Projects\Week6_FA\obj\Debug\net6.0\Week6_FA.AssemblyInfo.cs
+D:\C#Projects\Week6_FA\obj\Debug\net6.0\Week6_FA.csproj.CoreCompileInputs.cache
+D:\C#Projects\Week6_FA\obj\Debug\net6.0\Week6_FA.dll
+D:\C#Projects\Week6_FA\obj\Debug\net6.0\refint\Week6_FA.dll
+D:\C#Projects\Week6_FA\obj\Debug\net6.0\Week6_FA.pdb
+D:\C#Projects\Week6_FA\obj\Debug\net6.0\Week6_FA.genruntimeconfig.cache
+D:\C#Projects\Week6_FA\obj\Debug\net6.0\ref\Week6_FA.dll
